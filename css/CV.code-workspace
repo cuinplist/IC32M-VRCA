@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "CV",
+			"path": "../CV"
+		},
+		{
+			"name": "hola",
+			"path": "../hola"
+		},
+		{
+			"name": "web t",
+			"path": "../web t"
+		},
+		{
+			"path": "../tarea"
+		},
+		{
+			"path": "../lapo"
+		},
+		{
+			"path": "../chuchu"
+		},
+		{
+			"path": "../n-betterweb"
+		},
+		{
+			"path": "../ic-32M"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hola"
+	}
+}
